@@ -15,6 +15,7 @@ Naruto-Worldbuilding/
 │   │   ├── Squad_Types/         (Standardized squad formations e.g., Assault, Guard, etc.)
 │   │   └── Specializations/     (Individual SFF-certified roles e.g., Tracker, Medic, etc.)
 │   └── World_Demographics/
+│   └── Simulations/             (Jupyter Notebooks and Tools)
 │
 ├── Fire_Nation/
 │   ├── National_Lore_and_Geography/
@@ -47,6 +48,7 @@ General lore applicable to the entire world or shared systems.
    + **Squad_Types/**: Detailed composition and strategies for standard tactical units.
    + **Specializations/**: Individual role descriptions, operational variants, and Shinobi Field Forces (SFF) certification details.
 - **World_Demographics/**: Global clan lists and population data.
+- **Simulations/:** Interactive tools and Jupyter Notebooks (e.g., Geopolitical Simulator) to model world mechanics.
 
 ### Nations
 Specific lore for the Five Great Nations. Each nation folder is divided into:
