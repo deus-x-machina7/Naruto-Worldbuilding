@@ -14,7 +14,7 @@ Naruto-Worldbuilding/
 │   ├── Squads_and_Specializations/
 │   │   ├── Squad_Types/         (Standardized squad formations e.g., Assault, Guard, etc.)
 │   │   └── Specializations/     (Individual SFF-certified roles e.g., Tracker, Medic, etc.)
-│   └── World_Demographics/
+│   ├── World_Demographics/
 │   └── Simulations/             (Jupyter Notebooks and Tools)
 │
 ├── Fire_Nation/
